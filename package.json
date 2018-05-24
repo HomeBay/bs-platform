@@ -1,0 +1,14 @@
+{
+  "name": "bs-platform",
+  "version": "3.2.0",
+  "description": "JS-only compiled lib from bucklescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Hongbo Zhang"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {}
+}
